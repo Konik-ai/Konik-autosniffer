@@ -53,8 +53,6 @@ Data format: standard openpilot CAN logs + metadata (JSON sidecar)
 
 Server: stable.konik.ai – base for data collection and cross-confirmation
 
-Future goal: integration with Cabana for visual verification
-
 👥 Looking for collaborators
 
 We’re at the very beginning and looking for people with experience in:
